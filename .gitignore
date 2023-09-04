@@ -35,3 +35,4 @@ build/
 
 ### config ###
 /.env
+/src/main/resources/application-prod.yml
